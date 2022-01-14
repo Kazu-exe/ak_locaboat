@@ -1,4 +1,4 @@
-## Ak-Weapon
+## Ak-LocaBoat
 
 
 - Configurer le script depuis un fichier config super facilement !
