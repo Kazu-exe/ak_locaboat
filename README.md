@@ -1,7 +1,5 @@
 ## Ak-Weapon
 
----
-
 - Configurer le script depuis un fichier config super facilement !
 
 - Script Location Bateaux en RageUI ! 🛶
